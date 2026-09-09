@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
   # 👋 Hi, I'm Jessica Emad!
-  ### 🚀 Front-End Developer & UI/UX Designer | 🎓 Computer Science Student at Tanta University
+  ###  Front-End Developer & UI/UX Designer |  Computer Science Student at Tanta University
 
   <p align="center">
     <a href="https://linkedin.com/in/jessica-emad-21b76436b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -17,17 +17,17 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
-- 🎓 Computer Science student at **Tanta University**.
-- 💻 **Front-End Developer & UI/UX Designer** passionate about crafting responsive, accessible, and user-friendly web applications.
-- 🎨 Skilled in **UI/UX Design**, wireframing, interactive prototyping, and visual design using **Figma**.
-- 🚀 Expanding my expertise in **React.js**, modern **JavaScript (ES6+)**, and web APIs.
-- 🏆 **1st Place Winner** at the Delta Universities Environmental Competition for our graduation project (**Al-Folk App**) with a **10,000 EGP award**.
+-  Computer Science student at **Tanta University**.
+-  **Front-End Developer & UI/UX Designer** passionate about crafting responsive, accessible, and user-friendly web applications.
+-  Skilled in **UI/UX Design**, wireframing, interactive prototyping, and visual design using **Figma**.
+-  Expanding my expertise in **React.js**, modern **JavaScript (ES6+)**, and web APIs.
+-  **1st Place Winner** at the Delta Universities Environmental Competition for our graduation project (**Al-Folk App**) with a **10,000 EGP award**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <div align="center">
 
@@ -41,27 +41,27 @@
 
 ---
 
-### 💼 Experience & Training
+###  Experience & Training
 
-- 🔹 **Front-End Development Trainee — ITI (Information Technology Institute) [2025]**
+-  **Front-End Development Trainee — ITI (Information Technology Institute) [2025]**
   - Hands-on training building responsive web applications with JavaScript (ES6+) & React.js.
-- 🔹 **UI/UX Design Trainee — Creativa Innovation Hub [2025 - 2026]**
+-  **UI/UX Design Trainee — Creativa Innovation Hub [2025 - 2026]**
   - Specialized UI/UX design training: user research, wireframing, persona creation, empathy mapping, user flow design, and Figma prototyping.
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⛵ Al-Folk App (Graduation Project)</h3>
-      <p align="center">🏆 <b>1st Place Winner — Delta Universities Competition (10,000 EGP Award)</b></p>
+      <h3 align="center"> Al-Folk App (Graduation Project)</h3>
+      <p align="center"> <b>1st Place Winner — Delta Universities Competition (10,000 EGP Award)</b></p>
       <p>A specialized web application supporting children with Down Syndrome and their families through cognitive games and progress tracking.</p>
       <p><b>Tech Stack:</b> HTML5, CSS3, JavaScript, Figma, Responsive Design</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎬 Movie App</h3>
+      <h3 align="center"> Movie App</h3>
       <p align="center"><b>React.js & REST APIs</b></p>
       <p>A responsive movie browsing web app allowing users to search, filter, and explore trending movies using external APIs.</p>
       <p><b>Tech Stack:</b> React.js, JavaScript (ES6+), REST API, CSS Grid</p>
@@ -79,7 +79,7 @@
 
 ---
 
-### 📫 Connect With Me
+###  Connect With Me
 
 <div align="center">
   <a href="https://linkedin.com/in/jessica-emad-21b76436b/">
